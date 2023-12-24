@@ -1,0 +1,4 @@
+.vitepress/cache
+.vercel
+node_modules
+dist
